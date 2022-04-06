@@ -14,13 +14,13 @@ class HomePage extends React.Component{
                     alt: "React"
                 },
                 {
-                    subtitle:"Props",
+                    subtitle:"Componentes",
                     paragraf:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                     src:"https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png",
                     alt: "React"
                 },
                 {
-                    subtitle:"States",
+                    subtitle:"Componentes",
                     paragraf:"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
                     src:"https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png",
                     alt: "React"
